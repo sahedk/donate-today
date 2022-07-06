@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+}
+h1{
+    font-size: 50px;
+}
+section{
+    display: flex;;
+}
+.text-m{
+    text-align: center;
+    color: white;
+}
+
+.top-banner {
+    background-image: url(images/donation6.jpg);
+    background-repeat: no-repeat;
+    
+}
+.top-banner img{
+    width: 100%;
+}
+
+    
